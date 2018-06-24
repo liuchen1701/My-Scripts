@@ -1,0 +1,1 @@
+curl -k https://api.pushbullet.com/v2/pushes -u o.KPL771tWvjgdp4yw3YwA30vKGN4Cwetx: -X POST -d type=note -d title="Remote Command" -d body="Shutting Down Computer"
